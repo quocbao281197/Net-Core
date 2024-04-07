@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study\\NETCore\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\controllers\\factorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\controllers\\factorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\controllers\\abstractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\controllers\\abstractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\factory\\flasticfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factory\\flasticfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\interfaces\\itableservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\interfaces\\itableservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\interfaces\\ichairservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\interfaces\\ichairservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\abstracts\\furnitureabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\abstracts\\furnitureabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\factory\\furniturefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factory\\furniturefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\factory\\woodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factory\\woodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\services\\flastictableservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\services\\flastictableservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\factory\\bankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factory\\bankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\enums\\materialtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\enums\\materialtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\enums\\banktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\enums\\banktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\services\\woodtableservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\services\\woodtableservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\services\\woodchairservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\services\\woodchairservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\services\\flasticchairservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\services\\flasticchairservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\services\\vietcombankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\services\\vietcombankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\services\\techcombankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\services\\techcombankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|e:\\study\\netcore\\designpatterns\\designpatterns\\interfaces\\ibankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F32250-E05C-4F11-B97F-E58F2E5681CA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\interfaces\\ibankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbstractController.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Controllers\\AbstractController.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Controllers\\AbstractController.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Controllers\\AbstractController.cs",
+              "RelativeToolTip": "DesignPatterns\\Controllers\\AbstractController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:27:03.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlasticTableServices.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\FlasticTableServices.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Services\\FlasticTableServices.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\FlasticTableServices.cs",
+              "RelativeToolTip": "DesignPatterns\\Services\\FlasticTableServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:12:19.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlasticFactory.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Factory\\FlasticFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Factory\\FlasticFactory.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Factory\\FlasticFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\Factory\\FlasticFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:07:38.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITableServices.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Interfaces\\ITableServices.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Interfaces\\ITableServices.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Interfaces\\ITableServices.cs",
+              "RelativeToolTip": "DesignPatterns\\Interfaces\\ITableServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:04:08.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FurnitureFactory.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Factory\\FurnitureFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Factory\\FurnitureFactory.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Factory\\FurnitureFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\Factory\\FurnitureFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:01:52.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BankType.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Enums\\BankType.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Enums\\BankType.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Enums\\BankType.cs",
+              "RelativeToolTip": "DesignPatterns\\Enums\\BankType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:09:52.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FurnitureAbstractFactory.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Abstracts\\FurnitureAbstractFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Abstracts\\FurnitureAbstractFactory.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Abstracts\\FurnitureAbstractFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\Abstracts\\FurnitureAbstractFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:02:36.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactoryController.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Controllers\\FactoryController.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Controllers\\FactoryController.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Controllers\\FactoryController.cs",
+              "RelativeToolTip": "DesignPatterns\\Controllers\\FactoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:20:44.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DesignPatterns\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:15:36.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WoodTableServices.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\WoodTableServices.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Services\\WoodTableServices.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\WoodTableServices.cs",
+              "RelativeToolTip": "DesignPatterns\\Services\\WoodTableServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:13:05.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WoodFactory.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Factory\\WoodFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Factory\\WoodFactory.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Factory\\WoodFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\Factory\\WoodFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:14:33.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChairServices.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Interfaces\\IChairServices.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Interfaces\\IChairServices.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Interfaces\\IChairServices.cs",
+              "RelativeToolTip": "DesignPatterns\\Interfaces\\IChairServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:03:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WoodChairServices.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\WoodChairServices.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Services\\WoodChairServices.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\WoodChairServices.cs",
+              "RelativeToolTip": "DesignPatterns\\Services\\WoodChairServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:10:55.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FlasticChairServices.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\FlasticChairServices.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Services\\FlasticChairServices.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\FlasticChairServices.cs",
+              "RelativeToolTip": "DesignPatterns\\Services\\FlasticChairServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:09:07.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaterialType.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Enums\\MaterialType.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Enums\\MaterialType.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Enums\\MaterialType.cs",
+              "RelativeToolTip": "DesignPatterns\\Enums\\MaterialType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:01:06.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankFactory.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Factory\\BankFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Factory\\BankFactory.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Factory\\BankFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\Factory\\BankFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:13:09.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VietcombankServices.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\VietcombankServices.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Services\\VietcombankServices.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\VietcombankServices.cs",
+              "RelativeToolTip": "DesignPatterns\\Services\\VietcombankServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:11:43.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TechcombankServices.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\TechcombankServices.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Services\\TechcombankServices.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Services\\TechcombankServices.cs",
+              "RelativeToolTip": "DesignPatterns\\Services\\TechcombankServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:11:31.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBankServices.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Interfaces\\IBankServices.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Interfaces\\IBankServices.cs",
+              "ToolTip": "E:\\Study\\NETCore\\DesignPatterns\\DesignPatterns\\Interfaces\\IBankServices.cs",
+              "RelativeToolTip": "DesignPatterns\\Interfaces\\IBankServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:10:46.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
