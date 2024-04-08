@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Study\\NETCore\\Net-Core\\Todo.BlazorWeb\\Todo.BlazorWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Todo.BlazorWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Todo.BlazorWeb.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Study\\NETCore\\Net-Core\\Todo.BlazorWeb\\Todo.BlazorWeb\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\Study\\NETCore\\Net-Core\\Todo.BlazorWeb\\Todo.BlazorWeb\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Study\\NETCore\\Net-Core\\Todo.BlazorWeb\\Todo.BlazorWeb\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Study\\NETCore\\Net-Core\\Todo.BlazorWeb\\Todo.BlazorWeb\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Todo.BlazorWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Todo.BlazorWeb.props",
+      "PackagePath": "build\\Todo.BlazorWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Todo.BlazorWeb.props",
+      "PackagePath": "buildMultiTargeting\\Todo.BlazorWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Todo.BlazorWeb.props",
+      "PackagePath": "buildTransitive\\Todo.BlazorWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
