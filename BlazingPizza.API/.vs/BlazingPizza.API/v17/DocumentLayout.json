@@ -11,15 +11,71 @@
       "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\data\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\data\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\u0027S\\AppData\\Local\\Temp\\.vsdbgsrc\\af3215821a37cd400f88392a8402e0a618db29b4e1aab04c4bbcc9b63b36e8d7\\StateManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\pages\\specialoffers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\pages\\specialoffers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\data\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\data\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\controllers\\specialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\controllers\\specialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\pages\\pizzatoppings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\pages\\pizzatoppings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\pizzatopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\pizzatopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\pages\\pizzatopping.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\pages\\pizzatopping.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\orderwithstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\orderwithstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\pages\\pizza.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\pages\\pizza.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\pages\\pizzas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\pages\\pizzas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\u0027S\\AppData\\Local\\Temp\\.vsdbgsrc\\af3215821a37cd400f88392a8402e0a618db29b4e1aab04c4bbcc9b63b36e8d7\\StateManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,24 +98,8 @@
       "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\controllers\\specialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\controllers\\specialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\data\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\data\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\pages\\pizzas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\pages\\pizzas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -78,26 +118,6 @@
       "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\pizzatopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\pizzatopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\orderwithstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\orderwithstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -108,10 +128,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|e:\\study\\netcore\\net-core\\blazingpizza.api\\blazingpizza.api\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDF2822-2C51-4F36-B584-C96348C51214}|BlazingPizza.API\\BlazingPizza.API.csproj|solutionrelative:blazingpizza.api\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -121,7 +137,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -133,15 +149,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PizzaServices.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Services\\PizzaServices.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Services\\PizzaServices.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Services\\PizzaServices.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Services\\PizzaServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "DocumentIndex": 4,
+              "Title": "PizzaStoreContext.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\PizzaStoreContext.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Data\\PizzaStoreContext.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\PizzaStoreContext.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Data\\PizzaStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:47:00.122Z",
+              "WhenOpened": "2024-04-08T04:06:54.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Data\\SeedData.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\SeedData.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Data\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:10:12.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PizzaTopping.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\PizzaTopping.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\PizzaTopping.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\PizzaTopping.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Model\\PizzaTopping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:21:50.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PizzaTopping.razor",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\PizzaTopping.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Pages\\PizzaTopping.razor",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\PizzaTopping.razor",
+              "RelativeToolTip": "BlazingPizza.API\\Pages\\PizzaTopping.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T09:08:00.257Z",
               "EditorCaption": ""
             },
             {
@@ -152,35 +207,9 @@
               "RelativeDocumentMoniker": "BlazingPizza.API\\Program.cs",
               "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Program.cs",
               "RelativeToolTip": "BlazingPizza.API\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAADwvyAAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T03:22:28.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Data\\SeedData.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\SeedData.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Data\\SeedData.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAADwv0EAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T04:10:12.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\appsettings.json",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\appsettings.json",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\appsettings.json",
-              "RelativeToolTip": "BlazingPizza.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T03:17:14.218Z",
               "EditorCaption": ""
             },
             {
@@ -191,22 +220,35 @@
               "RelativeDocumentMoniker": "BlazingPizza.API\\Pages\\Index.razor",
               "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\Index.razor",
               "RelativeToolTip": "BlazingPizza.API\\Pages\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA2AAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-08T03:16:00.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\MainLayout.razor",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\MainLayout.razor",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\MainLayout.razor",
-              "RelativeToolTip": "BlazingPizza.API\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "SpecialsController.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Controllers\\SpecialsController.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Controllers\\SpecialsController.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Controllers\\SpecialsController.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Controllers\\SpecialsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:09:19.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpecialOffers.razor",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\SpecialOffers.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Pages\\SpecialOffers.razor",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\SpecialOffers.razor",
+              "RelativeToolTip": "BlazingPizza.API\\Pages\\SpecialOffers.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T04:17:42.001Z",
+              "WhenOpened": "2024-04-08T10:19:06.854Z",
               "EditorCaption": ""
             },
             {
@@ -215,83 +257,136 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PizzaStoreContext.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\PizzaStoreContext.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Data\\PizzaStoreContext.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\PizzaStoreContext.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Data\\PizzaStoreContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T04:06:54.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StateManager.cs",
-              "DocumentMoniker": "C:\\Users\\HOME\u0027S\\AppData\\Local\\Temp\\.vsdbgsrc\\af3215821a37cd400f88392a8402e0a618db29b4e1aab04c4bbcc9b63b36e8d7\\StateManager.cs",
-              "ToolTip": "C:\\Users\\HOME\u0027S\\AppData\\Local\\Temp\\.vsdbgsrc\\af3215821a37cd400f88392a8402e0a618db29b4e1aab04c4bbcc9b63b36e8d7\\StateManager.cs [Read Only]",
-              "ViewState": "AQIAAOICAAAAAAAAAADwv/ACAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T04:57:59.953Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SpecialsController.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Controllers\\SpecialsController.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Controllers\\SpecialsController.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Controllers\\SpecialsController.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Controllers\\SpecialsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T04:09:19.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Pizza.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\Pizza.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Data\\Pizza.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\Pizza.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Data\\Pizza.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:45:33.689Z",
+              "DocumentIndex": 6,
+              "Title": "PizzaToppings.razor",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\PizzaToppings.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Pages\\PizzaToppings.razor",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\PizzaToppings.razor",
+              "RelativeToolTip": "BlazingPizza.API\\Pages\\PizzaToppings.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T08:53:41.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\_Imports.razor",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\_Imports.razor",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\_Imports.razor",
-              "RelativeToolTip": "BlazingPizza.API\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T03:16:06.152Z",
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\UserInfo.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\UserInfo.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\UserInfo.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Model\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:21:54.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.razor",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\App.razor",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\App.razor",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\App.razor",
-              "RelativeToolTip": "BlazingPizza.API\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T03:16:44.602Z",
+              "DocumentIndex": 10,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Topping.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\Topping.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Topping.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Model\\Topping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:21:52.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PizzaSpecial.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\PizzaSpecial.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\PizzaSpecial.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\PizzaSpecial.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Model\\PizzaSpecial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:21:46.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Pizza.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\Pizza.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Pizza.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Model\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:21:43.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderWithStatus.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\OrderWithStatus.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\OrderWithStatus.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\OrderWithStatus.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Model\\OrderWithStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:21:38.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\Order.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Order.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:21:32.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Address.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Address.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\Address.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Address.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Model\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:21:10.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pizza.razor",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\Pizza.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Pages\\Pizza.razor",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\Pizza.razor",
+              "RelativeToolTip": "BlazingPizza.API\\Pages\\Pizza.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T08:54:16.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\appsettings.json",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\appsettings.json",
+              "RelativeToolTip": "BlazingPizza.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T03:17:14.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Pizzas.razor",
               "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\Pizzas.razor",
               "RelativeDocumentMoniker": "BlazingPizza.API\\Pages\\Pizzas.razor",
@@ -304,72 +399,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OrderWithStatus.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\OrderWithStatus.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\OrderWithStatus.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\OrderWithStatus.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Model\\OrderWithStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "DocumentIndex": 20,
+              "Title": "PizzaServices.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Services\\PizzaServices.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Services\\PizzaServices.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Services\\PizzaServices.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Services\\PizzaServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:21:38.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Pizza.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Pizza.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\Pizza.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Pizza.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Model\\Pizza.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:21:43.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PizzaSpecial.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\PizzaSpecial.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\PizzaSpecial.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\PizzaSpecial.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Model\\PizzaSpecial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:21:46.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:47:00.122Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "PizzaTopping.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\PizzaTopping.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\PizzaTopping.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\PizzaTopping.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Model\\PizzaTopping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\MainLayout.razor",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\MainLayout.razor",
+              "RelativeToolTip": "BlazingPizza.API\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T04:17:42.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StateManager.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\u0027S\\AppData\\Local\\Temp\\.vsdbgsrc\\af3215821a37cd400f88392a8402e0a618db29b4e1aab04c4bbcc9b63b36e8d7\\StateManager.cs",
+              "ToolTip": "C:\\Users\\HOME\u0027S\\AppData\\Local\\Temp\\.vsdbgsrc\\af3215821a37cd400f88392a8402e0a618db29b4e1aab04c4bbcc9b63b36e8d7\\StateManager.cs [Read Only]",
+              "ViewState": "AQIAAOICAAAAAAAAAADwv/ACAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:21:50.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T04:57:59.953Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\Pizza.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\Data\\Pizza.cs",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Data\\Pizza.cs",
+              "RelativeToolTip": "BlazingPizza.API\\Data\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:45:33.689Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Address.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Address.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\Address.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Address.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Model\\Address.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:21:10.06Z",
-              "EditorCaption": ""
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\_Imports.razor",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\_Imports.razor",
+              "RelativeToolTip": "BlazingPizza.API\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:16:06.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\App.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.API\\App.razor",
+              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\App.razor",
+              "RelativeToolTip": "BlazingPizza.API\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T03:16:44.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "site.css",
               "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "BlazingPizza.API\\wwwroot\\css\\site.css",
@@ -377,12 +478,11 @@
               "RelativeToolTip": "BlazingPizza.API\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAOECAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-08T03:22:41.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:22:41.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "_Host.cshtml",
               "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "BlazingPizza.API\\Pages\\_Host.cshtml",
@@ -390,12 +490,11 @@
               "RelativeToolTip": "BlazingPizza.API\\Pages\\_Host.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T03:15:55.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:15:55.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Error.cshtml.cs",
               "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\Error.cshtml.cs",
               "RelativeDocumentMoniker": "BlazingPizza.API\\Pages\\Error.cshtml.cs",
@@ -403,38 +502,11 @@
               "RelativeToolTip": "BlazingPizza.API\\Pages\\Error.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:23:14.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:23:14.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Topping.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Topping.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\Topping.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Topping.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Model\\Topping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:21:52.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserInfo.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\UserInfo.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\UserInfo.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\UserInfo.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Model\\UserInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:21:54.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Error.cshtml",
               "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "BlazingPizza.API\\Pages\\Error.cshtml",
@@ -442,12 +514,11 @@
               "RelativeToolTip": "BlazingPizza.API\\Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T03:15:59.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:15:59.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "BlazingPizza.API\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
@@ -455,12 +526,11 @@
               "RelativeToolTip": "BlazingPizza.API\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-08T03:22:38.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:22:38.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazingPizza.API\\Shared\\MainLayout.razor",
@@ -468,12 +538,11 @@
               "RelativeToolTip": "BlazingPizza.API\\Shared\\MainLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-08T03:22:19.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:22:19.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BlazingPizza.API\\appsettings.Development.json",
@@ -481,21 +550,7 @@
               "RelativeToolTip": "BlazingPizza.API\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T03:17:39.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Order.cs",
-              "RelativeDocumentMoniker": "BlazingPizza.API\\Model\\Order.cs",
-              "ToolTip": "E:\\Study\\NETCore\\Net-Core\\BlazingPizza.API\\BlazingPizza.API\\Model\\Order.cs",
-              "RelativeToolTip": "BlazingPizza.API\\Model\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:21:32.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:17:39.18Z"
             }
           ]
         }

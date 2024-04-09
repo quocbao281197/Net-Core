@@ -1,4 +1,6 @@
-﻿namespace BlazingPizza.API.Data
+﻿using BlazingPizza.API.Model;
+
+namespace BlazingPizza.API.Data
 {
     public static class SeedData
     {

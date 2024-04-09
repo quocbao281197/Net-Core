@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BlazingPizza.API
+namespace BlazingPizza.API.Model
 {
     public class Order
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace BlazingPizza.API
+namespace BlazingPizza.API.Model
 {
     /// <summary>
     /// Represents a customized pizza as part of an order

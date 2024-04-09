@@ -1,4 +1,4 @@
-﻿namespace BlazingPizza.API
+﻿namespace BlazingPizza.API.Model
 {
     public class PizzaTopping
     {
@@ -7,5 +7,7 @@
         public int ToppingId { get; set; }
         
         public int PizzaId { get; set; }
+        public string Name { get; set; }
+        public string Ingredients { get; set; }
     }
 }
