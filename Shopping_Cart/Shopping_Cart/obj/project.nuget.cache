@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SHhJvwgK84YSn13axBFLNkpP2cPg/SiueDlEGGz/ufwCZ6Io1gP2OaQgfhsFNwQoMa1Z5UmUlZGJThBOVXeBxg==",
+  "dgSpecHash": "9F7QVnMdTbBqBJHh7txJBzUQ1OGkIy+/YMVFs31ZfKp4oIkf+zLADxMns9H/QUMtPlvK+B6a6THkquJeZQB7hg==",
   "success": true,
-  "projectFilePath": "E:\\Study\\NETCore\\Shopping_Cart\\Shopping_Cart\\Shopping_Cart.csproj",
+  "projectFilePath": "E:\\Study\\NETCore\\Net-Core\\Shopping_Cart\\Shopping_Cart\\Shopping_Cart.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
