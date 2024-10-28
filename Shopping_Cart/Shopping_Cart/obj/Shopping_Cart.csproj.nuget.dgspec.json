@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Study\\NETCore\\Net-Core\\Shopping_Cart\\Shopping_Cart\\Shopping_Cart.csproj": {}
+    "D:\\Working_Bao\\MyRepositories\\Net-Core\\Shopping_Cart\\Shopping_Cart\\Shopping_Cart.csproj": {}
   },
   "projects": {
-    "E:\\Study\\NETCore\\Net-Core\\Shopping_Cart\\Shopping_Cart\\Shopping_Cart.csproj": {
+    "D:\\Working_Bao\\MyRepositories\\Net-Core\\Shopping_Cart\\Shopping_Cart\\Shopping_Cart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Study\\NETCore\\Net-Core\\Shopping_Cart\\Shopping_Cart\\Shopping_Cart.csproj",
+        "projectUniqueName": "D:\\Working_Bao\\MyRepositories\\Net-Core\\Shopping_Cart\\Shopping_Cart\\Shopping_Cart.csproj",
         "projectName": "Shopping_Cart",
-        "projectPath": "E:\\Study\\NETCore\\Net-Core\\Shopping_Cart\\Shopping_Cart\\Shopping_Cart.csproj",
-        "packagesPath": "C:\\Users\\HOME'S\\.nuget\\packages\\",
-        "outputPath": "E:\\Study\\NETCore\\Net-Core\\Shopping_Cart\\Shopping_Cart\\obj\\",
+        "projectPath": "D:\\Working_Bao\\MyRepositories\\Net-Core\\Shopping_Cart\\Shopping_Cart\\Shopping_Cart.csproj",
+        "packagesPath": "C:\\Users\\Bao\\.nuget\\packages\\",
+        "outputPath": "D:\\Working_Bao\\MyRepositories\\Net-Core\\Shopping_Cart\\Shopping_Cart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Applications\\VisualStudio22\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HOME'S\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

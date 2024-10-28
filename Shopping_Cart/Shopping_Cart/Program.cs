@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using Shopping_Cart.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Add DB context
+builder.Services.AddDbContext<DataContext>(options =>
+    {
+        options.UseSqlServer(builder.Configuration["ConnectionStrings:ConnectedDB"]);
+    }
+);
 
 var app = builder.Build();
 
@@ -23,5 +33,9 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+// Seeding data
+var context = app.Services.CreateScope().ServiceProvider.GetRequiredService<DataContext>();
+SeedData.SeedingData(context);
 
 app.Run();
