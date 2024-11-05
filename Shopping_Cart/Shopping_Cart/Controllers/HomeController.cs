@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Shopping_Cart.Models;
+using Shopping_Cart.Repository;
 using System.Diagnostics;
 
 namespace Shopping_Cart.Controllers
@@ -7,15 +9,18 @@ namespace Shopping_Cart.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly DataContext _dataContext;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, DataContext dataContext)
         {
             _logger = logger;
+            _dataContext = dataContext;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var products = _dataContext.Products.Include("Category").Include("Brand").ToList();
+            return View(products);
         }
 
         public IActionResult Privacy()
